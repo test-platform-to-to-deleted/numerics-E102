@@ -4,3 +4,5 @@ Are you fine?
 Hahahaha.
 Blah blah blah.
 This is only a test.
+
+[[./static/img/something.jpg][Image]]
